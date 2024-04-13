@@ -35,6 +35,3 @@ See my **[Portfolio](http://girdharagrawal.great-site.net)**
 - **[Code With Girdhar (blog)](http://girdharpersonalblog.great-site.net/?i=1)**
 - **[Spotify CLone](http://spotify-girdhar.great-site.net/?i=1)**
 - **[CWH CLone](https://codewithgirdhar.netlify.app/)**
-
-## Language Used
-![Languages](https://img.shields.io/github/languages/count/:girdharagrawalbro/)
