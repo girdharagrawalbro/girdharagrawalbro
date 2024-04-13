@@ -39,6 +39,4 @@ See my **[Portfolio](http://girdharagrawal.great-site.net)**
 ## </> Languages Used
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 😀 Followers
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+
