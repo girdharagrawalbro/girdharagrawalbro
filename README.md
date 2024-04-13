@@ -19,14 +19,15 @@
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [gidhar_agrawal](https://www.linkedin.com/in/girdhar-agrawal-124346220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email:** girdharagrawalbro@gmail.com
+- **LinkedIn:** [gidhar_agrawal](https://www.linkedin.com/in/girdhar-agrawal-124346220)
+- **Instagram:** [girdhar_agrawal](https://www.instagram.com/girdhar_agrawal/) 
 
 ## 📚 Latest Blog Posts
 Visit my blogging website to see my latest blog post: **[Click to Visit](https://codewithgirdhar.great-site.net)**
 
 ## ⚡ My Portfolio 
-See my **[Portfolio](http://girdharagrawal.great-site.net)**
+See my **[Portfolio](https://girdharagrawal.great-site.net)**
 
 ##  🔭 My Projects
 - **[CodeWithGirdhar](https://codewithgirdhar.great-site.net)**
