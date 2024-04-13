@@ -23,22 +23,16 @@
 - **Email:** girdharagrawalbro@gmailc.com
 
 ## 📚 Latest Blog Posts
-Visit my blogging website to see my latest blog post: **https://codewithgirdhar.great-site.net**
+Visit my blogging website to see my latest blog post: **[Click to Visit](https://codewithgirdhar.great-site.net)**
 
 ## ⚡ My Portfolio 
-Visit to see my Portfolio: **https://girdharagrawal.great-site.net**
+See my **[Portfolio](http://girdharagrawal.great-site.net)**
 
-##  My Projects
-
-## 🤝 Support
-[jsnjnfd](https://codewithgirdhar.great-site.net)
-> Like what I'm doing? Consider buying me a coffee! ☕
-
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
-[buymeacoffee]: https://www.buymeacoffee.com/yourusername
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
-
-
+##  🔭 My Projects
+- **[CodeWithGirdhar](https://codewithgirdhar.great-site.net)**
+- **[E-Waste Seller](http://e-waste.great-site.net/)**
+- **[Hotel BlueBird](http://hotelbluebird.great-site.net/?i=1)**
+- **[Code With Girdhar (blog)](http://girdharpersonalblog.great-site.net/?i=1)**
+- **[Spotify CLone](http://spotify-girdhar.great-site.net/?i=1)**
+- **[CWH CLone](https://codewithgirdhar.netlify.app/)**
 
