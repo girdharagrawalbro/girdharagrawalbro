@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Bank Website**
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on **React Apps**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me: **girdharagrawalbro@gmail.com**
 
 ## 🛠 Skills
