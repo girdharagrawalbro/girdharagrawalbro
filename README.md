@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **React Apps**
+- 🔭 I’m currently working on **JavaScript Apps**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: **girdharagrawalbro@gmail.com**
 
