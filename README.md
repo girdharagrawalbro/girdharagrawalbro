@@ -9,8 +9,8 @@
 ## 🛠 Skills
 
 - **Languages:** JavaScript, C++, C etc.
-- **Web Development:** HTML, CSS, Bootstrap also the Wordpress.
-- **Tools:** Github.
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React, Next.js, also the Wordpress.
+- **Tools:** Github, MongoDB, Sql.
 
 ## 📈 GitHub Stats
 
