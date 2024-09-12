@@ -17,6 +17,7 @@
 <div align="center">
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=girdharagrawalbro&show_icons=true&theme=radical&layout=compact&hide=prs)
+<br>
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=girdharagrawalbro&theme=radical)
 </div>
 
@@ -47,6 +48,8 @@ See my **[Portfolio](https://girdharagrawal.netlify.app)**
 ## </> Languages Used
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girdharagrawalbro&layout=compact&theme=radical)
-</div>div>
+  
+</div>
 
