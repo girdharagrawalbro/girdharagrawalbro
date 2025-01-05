@@ -36,14 +36,23 @@ See my **[Portfolio](https://girdharagrawal.netlify.app)**
 
 ##  🔭 My Projects
 - **[CodeWithGirdhar](https://codewithgirdhar.great-site.net)**
+- **[Social Square](https://social-square.netlify.app/)**
+- **[ChatGPT Clone](https://chatgpt-girdhar.netlify.app/)**
+- **[Infinity E-Sports](https://rsdc-infinity-esports.netlify.app/)**
+- **[Farming with AI (using AI)](https://farmingwithai.netlify.app/)**
+- **[Farming with AI (using ML)]**
 - **[E-Waste Seller](http://e-waste.great-site.net/)**
 - **[Hotel BlueBird](http://hotelbluebird.great-site.net/?i=1)**
 - **[Code With Girdhar (blog)](http://girdharpersonalblog.great-site.net/?i=1)**
 - **[Spotify CLone](http://spotify-girdhar.great-site.net/?i=1)**
 - **[CWH CLone](https://codewithgirdhar.netlify.app/)**
-- **[Online Exam Portal]**
-- **[Realtime Chat]**
+- **[Online Exam Portal](https://onlineexamgirdhar.netlify.app/)**
+- **[Realtime Chat](https://chatapp-girdhar.netlify.app/)**
+- **[Bhagvat Gita](https://bhagvat-gite.netlify.app/)**
 - **[Online Book Store]**
+- **[Todo List (using PHP)]**
+- **[Wheather Forecast]**
+- **[News Web]**
   
 ## </> Languages Used
 
