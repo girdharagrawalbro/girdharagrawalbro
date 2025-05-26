@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **JavaScript Apps**
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **AI Powered Bots and Web Apps**
+- 🌱 I’m currently practicing **DSA Concepts**
 - 📫 How to reach me: **girdharagrawalbro@gmail.com**
 
 ## 🛠 Skills
