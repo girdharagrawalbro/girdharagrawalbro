@@ -37,6 +37,8 @@ See my **[Portfolio](https://girdharagrawal.netlify.app)**
 ##  🔭 My Projects
 - **[CodeWithGirdhar](https://codewithgirdhar.great-site.net)**
 - **[Social Square](https://social-square.netlify.app/)**
+- **[Crowdfunding](https://crowdfunding-dapp-liard.vercel.app/)**
+- **[Event Flow](https://event-flow-eight.vercel.app/)**
 - **[ChatGPT Clone](https://chatgpt-girdhar.netlify.app/)**
 - **[Infinity E-Sports](https://rsdc-infinity-esports.netlify.app/)**
 - **[Farming with AI (using AI)](https://farmingwithai.netlify.app/)**
