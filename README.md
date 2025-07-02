@@ -14,6 +14,16 @@
   <p>Check out my interactive portfolio showcasing my best work and skills!</p>
 </div>
 
+## 🌟 Blogging Highlight
+
+<div align="center">
+  <a href="https://girdharagrawal.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Blogging-007bff?style=for-the-badge&logo=netlify&logoColor=white" alt="Blogging"/>
+  </a>
+  <br/>
+  <p>Check out my blogging website!</p>
+</div>
+
 
 ## 👨‍💻 About Me
 
@@ -29,7 +39,7 @@
   | Platform | Badge | Link |
   |----------|-------|------|
   | **LinkedIn** | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | [girdhar-agrawal](https://www.linkedin.com/in/girdhar-agrawal-124346220) |
-  | **Instagram** | ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) | [@girdhar_agrawal](https://www.instagram.com/girdhar_agrawal/) |
+  | **Instagram** | ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) | [@codewithgirdhar](https://www.instagram.com/codewithgirdhar/) |
   | **GitHub** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | [@girdharagrawalbro](https://github.com/girdharagrawalbro) |
   | **Email** | ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | [girdharagrawalbro@gmail.com](mailto:girdharagrawalbro@gmail.com) |
   | **Portfolio** | ![Netlify](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white) | [girdharagrawal.netlify.app](https://girdharagrawal.netlify.app) |
@@ -94,7 +104,7 @@
       <h3 align="center">🎭 Social Square</h3>
       <div align="center">
         <a href="https://social-square.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/24292e/ffffff?text=Social+Square" width="400" height="200"/>
+          <img src="https://github.com/user-attachments/assets/a2dedbb9-06dd-4068-a475-4fa469a08130" width="400" height="200"/>
         </a>
         <p>A modern social media platform</p>
         <span>React · Firebase · Material UI</span>
@@ -104,7 +114,7 @@
       <h3 align="center">🤖 ChatGPT Clone</h3>
       <div align="center">
         <a href="https://chatgpt-girdhar.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/24292e/ffffff?text=ChatGPT+Clone" width="400" height="200"/>
+          <img src="https://github.com/user-attachments/assets/7b7df103-b3a3-45a6-b088-c095aa2d609d" width="400" height="200"/>
         </a>
         <p>AI-powered chatbot interface</p>
         <span>OpenAI API · React · Node.js</span>
@@ -113,20 +123,20 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌱 Farming with AI</h3>
+      <h3 align="center">🌱 Whatsapp Bot (Event Manager)</h3>
       <div align="center">
-        <a href="https://farmingwithai.netlify.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/24292e/ffffff?text=Farming+with+AI" width="400" height="200"/>
+        <a href="" target="_blank">
+          <img src="https://github.com/user-attachments/assets/bd01a8e3-fadd-43e4-a137-db5d7d5fd68f" width="400" height="200"/>
         </a>
-        <p>AI solutions for modern agriculture</p>
-        <span>Machine Learning · Python · Flask</span>
+        <p>AI solutions for Evenet Management Using Whatsapp Bot</p>
+        <span>Machine Learning · Node.js · Twilo · AI </span>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">💸 Crowdfunding DApp</h3>
       <div align="center">
         <a href="https://crowdfunding-dapp-liard.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/24292e/ffffff?text=Crowdfunding+DApp" width="400" height="200"/>
+          <img src="https://github.com/user-attachments/assets/5a6062bf-abd3-4250-bcd7-fb1712ed7952" width="400" height="200"/>
         </a>
         <p>Decentralized fundraising platform</p>
         <span>Blockchain · Solidity · Web3.js</span>
