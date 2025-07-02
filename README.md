@@ -75,8 +75,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girdharagrawalbro&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   </a>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=girdharagrawalbro&theme=radical&hide_border=true)
-  
   <img src="https://github-profile-trophy.vercel.app/?username=girdharagrawalbro&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   
 </div>
@@ -125,7 +123,7 @@
     <td width="50%">
       <h3 align="center">🌱 Whatsapp Bot (Event Manager)</h3>
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/girdharagrawalbro/My-Whatsapp-Bot" target="_blank">
           <img src="https://github.com/user-attachments/assets/bd01a8e3-fadd-43e4-a137-db5d7d5fd68f" width="400" height="200"/>
         </a>
         <p>AI solutions for Evenet Management Using Whatsapp Bot</p>
@@ -155,12 +153,5 @@
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/girdharagrawalbro/count.svg)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Snake Light](https://github.com/girdharagrawalbro/girdharagrawalbro/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://github.com/girdharagrawalbro/girdharagrawalbro/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
