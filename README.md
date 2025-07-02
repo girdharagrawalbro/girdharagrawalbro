@@ -149,18 +149,6 @@
   <a href="https://github.com/girdharagrawalbro?tab=repositories" target="_blank">📂 View All Projects →</a>
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Neural Networks from Scratch](https://codewithgirdhar.great-site.net)
-- [The Future of Web Development in 2023](https://codewithgirdhar.great-site.net)
-- [Building Your First Blockchain Application](https://codewithgirdhar.great-site.net)
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <a href="https://codewithgirdhar.great-site.net" target="_blank">📚 Read More Articles →</a>
-</p>
-
 
 ## 👀 Visitors Count
 
