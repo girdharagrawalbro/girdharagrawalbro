@@ -7,7 +7,7 @@
 ## 🌟 Portfolio Highlight
 
 <div align="center">
-  <a href="https://girdharagrawal.netlify.app" target="_blank">
+  <a href="https://girdharagrawal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/✨_Portfolio-FF4088?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <br/>
@@ -17,7 +17,7 @@
 ## 🌟 Blogging Highlight
 
 <div align="center">
-  <a href="https://girdharagrawal.netlify.app" target="_blank">
+  <a href="https://codewithgirdhar.great-site.net/" target="_blank">
     <img src="https://img.shields.io/badge/✨_Blogging-007bff?style=for-the-badge&logo=netlify&logoColor=white" alt="Blogging"/>
   </a>
   <br/>
