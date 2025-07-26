@@ -146,12 +146,3 @@
 <p align="center">
   <a href="https://github.com/girdharagrawalbro?tab=repositories" target="_blank">📂 View All Projects →</a>
 </p>
-
-
-## 👀 Visitors Count
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/girdharagrawalbro/count.svg)
-  
-</div>
