@@ -109,13 +109,13 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 ChatGPT Clone</h3>
+      <h3 align="center">🤖 Gemini Clone</h3>
       <div align="center">
-        <a href="https://chatgpt-girdhar.netlify.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/7b7df103-b3a3-45a6-b088-c095aa2d609d" width="400" height="200"/>
+        <a href="https://gemini-girdhar.netlify.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/0f5ae660-aab9-4ac3-aa0a-51a639af2fc3" width="400" height="200"/>
         </a>
         <p>AI-powered chatbot interface</p>
-        <span>OpenAI API · React · Node.js</span>
+        <span>GeminiAI API · React · Node.js</span>
       </div>
     </td>
   </tr>
