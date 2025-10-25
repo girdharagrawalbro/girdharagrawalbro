@@ -32,6 +32,8 @@
 🌱 **Currently** mastering advanced DSA concepts and AI architectures  
 📚 **Love** sharing knowledge through [my tech blog](https://codewithgirdhar.great-site.net)  
 
+[![An image of @girdharagrawalbro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/girdharagrawalbro)](https://holopin.io/@girdharagrawalbro)
+
 ## 🌐 Social Networks
 
 <div align="center">
